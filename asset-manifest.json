@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/superhero-rolodex/static/css/main.4be5ce9d.css",
+    "main.js": "/superhero-rolodex/static/js/main.0ed641c5.js",
+    "static/js/787.0efc161f.chunk.js": "/superhero-rolodex/static/js/787.0efc161f.chunk.js",
+    "index.html": "/superhero-rolodex/index.html",
+    "main.4be5ce9d.css.map": "/superhero-rolodex/static/css/main.4be5ce9d.css.map",
+    "main.0ed641c5.js.map": "/superhero-rolodex/static/js/main.0ed641c5.js.map",
+    "787.0efc161f.chunk.js.map": "/superhero-rolodex/static/js/787.0efc161f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be5ce9d.css",
+    "static/js/main.0ed641c5.js"
+  ]
+}
